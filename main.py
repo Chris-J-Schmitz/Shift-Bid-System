@@ -1,5 +1,7 @@
 import csv
 from collections import defaultdict
+import pandas as pd 
+
 
 #Define Schedule options 
 SHIFT_SCHEDULE = {
@@ -75,6 +77,7 @@ def assign_shifts(employees):
 
     return shift_assignments
 
+#Display shifts in console 
 def displayShifts(shift_assignments):
     print("shift assignments")
     for shift in sorted(shift_assignments.keys()):
@@ -86,6 +89,40 @@ def displayShifts(shift_assignments):
 
 
 
+#Create a Dataframe of the shift assignments
+def createDataFrame(shift_assignments):
+    rows = []
+    for shift in sorted(shift_assignments.keys()):
+        for emp in shift_assignments[shift]:
+            #Create a row 
+            row = {
+                "Employee_id": emp['emp_id'],
+                "Employee_Name": emp['emp_name'],
+                "Shift_id": shift,
+                "Shift_Days": ",".join(SHIFT_SCHEDULE[shift]["days"]),
+                "Shift_Times": SHIFT_SCHEDULE[shift]["times"]
+            }
+
+            rows.append(row)
+
+    df = pd.DataFrame(rows)
+    return df
+
+
+def validateAssignments():
+    while True:
+
+        user_input = input('Okay to proceed with ? (Y / N)').strip().upper()
+        if user_input == 'Y':
+            print("Proceeding with assignments...")
+            return True
+        elif user_input == 'N':
+            print("Assignments not confirmed. Exiting process...")
+            return False
+        else:
+            print("Invalid input. Please enter 'Y' or 'N'.")
+
+    
 
 
 
@@ -101,10 +138,16 @@ def main():
     shift_assignments = assign_shifts(employees)
 
     #Display shifts for review
-    #displayShifts(shift_assignments)
-    print("\n Shift 1")
-    for emp in shift_assignments[1]:
-        print(f"{emp['emp_name']} Shift: {SHIFT_SCHEDULE[1]}")
+    displayShifts(shift_assignments)
+    
+    if validateAssignments():
+        print("Saving assignments to a file...")
+        shift_df = createDataFrame(shift_assignments)
+        shift_df.to_csv("shift_assignments.csv", index=False)
+        print("Shift assignments successfully!")
+    else:
+        print("Process cancelled. ")
+
 
 
     

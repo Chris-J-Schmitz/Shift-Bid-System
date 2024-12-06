@@ -1,0 +1,151 @@
+Employee_id,Employee_Name,Shift_id,Shift_Days,Shift_Times
+14,Employee_014,1,"Monday,Tuesday,Wednesday,Thursday,Friday",0800 - 1630
+146,Employee_146,1,"Monday,Tuesday,Wednesday,Thursday,Friday",0800 - 1630
+34,Employee_034,1,"Monday,Tuesday,Wednesday,Thursday,Friday",0800 - 1630
+53,Employee_053,1,"Monday,Tuesday,Wednesday,Thursday,Friday",0800 - 1630
+40,Employee_040,1,"Monday,Tuesday,Wednesday,Thursday,Friday",0800 - 1630
+68,Employee_068,1,"Monday,Tuesday,Wednesday,Thursday,Friday",0800 - 1630
+116,Employee_116,1,"Monday,Tuesday,Wednesday,Thursday,Friday",0800 - 1630
+81,Employee_081,2,"Monday,Tuesday,Wednesday,Thursday,Friday",0830 - 1700
+15,Employee_015,2,"Monday,Tuesday,Wednesday,Thursday,Friday",0830 - 1700
+44,Employee_044,2,"Monday,Tuesday,Wednesday,Thursday,Friday",0830 - 1700
+143,Employee_143,2,"Monday,Tuesday,Wednesday,Thursday,Friday",0830 - 1700
+142,Employee_142,2,"Monday,Tuesday,Wednesday,Thursday,Friday",0830 - 1700
+69,Employee_069,2,"Monday,Tuesday,Wednesday,Thursday,Friday",0830 - 1700
+114,Employee_114,2,"Monday,Tuesday,Wednesday,Thursday,Friday",0830 - 1700
+111,Employee_111,3,"Monday,Tuesday,Wednesday,Thursday,Friday",0900 - 1730
+102,Employee_102,3,"Monday,Tuesday,Wednesday,Thursday,Friday",0900 - 1730
+119,Employee_119,3,"Monday,Tuesday,Wednesday,Thursday,Friday",0900 - 1730
+149,Employee_149,3,"Monday,Tuesday,Wednesday,Thursday,Friday",0900 - 1730
+64,Employee_064,3,"Monday,Tuesday,Wednesday,Thursday,Friday",0900 - 1730
+52,Employee_052,4,"Monday,Tuesday,Wednesday,Thursday,Friday",0945 - 1815
+55,Employee_055,4,"Monday,Tuesday,Wednesday,Thursday,Friday",0945 - 1815
+139,Employee_139,4,"Monday,Tuesday,Wednesday,Thursday,Friday",0945 - 1815
+41,Employee_041,4,"Monday,Tuesday,Wednesday,Thursday,Friday",0945 - 1815
+13,Employee_013,4,"Monday,Tuesday,Wednesday,Thursday,Friday",0945 - 1815
+132,Employee_132,4,"Monday,Tuesday,Wednesday,Thursday,Friday",0945 - 1815
+93,Employee_093,5,"Monday,Tuesday,Wednesday,Thursday,Friday",1000 - 1830
+31,Employee_031,5,"Monday,Tuesday,Wednesday,Thursday,Friday",1000 - 1830
+19,Employee_019,5,"Monday,Tuesday,Wednesday,Thursday,Friday",1000 - 1830
+50,Employee_050,5,"Monday,Tuesday,Wednesday,Thursday,Friday",1000 - 1830
+9,Employee_009,5,"Monday,Tuesday,Wednesday,Thursday,Friday",1000 - 1830
+22,Employee_022,5,"Monday,Tuesday,Wednesday,Thursday,Friday",1000 - 1830
+120,Employee_120,5,"Monday,Tuesday,Wednesday,Thursday,Friday",1000 - 1830
+129,Employee_129,6,"Monday,Tuesday,Wednesday,Thursday,Friday",1030 - 1900
+4,Employee_004,6,"Monday,Tuesday,Wednesday,Thursday,Friday",1030 - 1900
+8,Employee_008,6,"Monday,Tuesday,Wednesday,Thursday,Friday",1030 - 1900
+16,Employee_016,6,"Monday,Tuesday,Wednesday,Thursday,Friday",1030 - 1900
+38,Employee_038,6,"Monday,Tuesday,Wednesday,Thursday,Friday",1030 - 1900
+47,Employee_047,7,"Monday,Tuesday,Wednesday,Thursday,Friday",1045 - 1915
+122,Employee_122,7,"Monday,Tuesday,Wednesday,Thursday,Friday",1045 - 1915
+11,Employee_011,7,"Monday,Tuesday,Wednesday,Thursday,Friday",1045 - 1915
+43,Employee_043,7,"Monday,Tuesday,Wednesday,Thursday,Friday",1045 - 1915
+75,Employee_075,7,"Monday,Tuesday,Wednesday,Thursday,Friday",1045 - 1915
+84,Employee_084,7,"Monday,Tuesday,Wednesday,Thursday,Friday",1045 - 1915
+121,Employee_121,7,"Monday,Tuesday,Wednesday,Thursday,Friday",1045 - 1915
+79,Employee_079,8,"Monday,Tuesday,Wednesday,Thursday,Friday",1100 - 1930
+49,Employee_049,8,"Monday,Tuesday,Wednesday,Thursday,Friday",1100 - 1930
+58,Employee_058,8,"Monday,Tuesday,Wednesday,Thursday,Friday",1100 - 1930
+51,Employee_051,8,"Monday,Tuesday,Wednesday,Thursday,Friday",1100 - 1930
+76,Employee_076,8,"Monday,Tuesday,Wednesday,Thursday,Friday",1100 - 1930
+148,Employee_148,8,"Monday,Tuesday,Wednesday,Thursday,Friday",1100 - 1930
+92,Employee_092,8,"Monday,Tuesday,Wednesday,Thursday,Friday",1100 - 1930
+17,Employee_017,9,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+112,Employee_112,9,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+124,Employee_124,9,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+131,Employee_131,9,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+23,Employee_023,9,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+1,Employee_001,9,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+45,Employee_045,9,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+110,Employee_110,10,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+6,Employee_006,10,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+29,Employee_029,10,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+83,Employee_083,10,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+100,Employee_100,10,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+108,Employee_108,10,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+98,Employee_098,10,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+104,Employee_104,11,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+134,Employee_134,11,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+113,Employee_113,11,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+141,Employee_141,11,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+35,Employee_035,11,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+133,Employee_133,11,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+3,Employee_003,11,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1730 , 0800 - 1200"
+61,Employee_061,12,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+99,Employee_099,12,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+63,Employee_063,12,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+97,Employee_097,12,"Monday,Wednesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+24,Employee_024,13,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+39,Employee_039,13,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+96,Employee_096,13,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+20,Employee_020,13,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+59,Employee_059,13,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+48,Employee_048,13,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+87,Employee_087,13,"Monday,Tuesday,Thursday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+32,Employee_032,14,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+73,Employee_073,14,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+106,Employee_106,14,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+88,Employee_088,14,"Monday,Tuesday,Wednesday,Friday,Saturday","0800 - 1700, 0800 - 1400"
+62,Employee_062,15,"Monday,Tuesday,Wednesday,Friday,Saturday","0830 - 1800 , 0800 - 1200"
+18,Employee_018,15,"Monday,Tuesday,Wednesday,Friday,Saturday","0830 - 1800 , 0800 - 1200"
+95,Employee_095,15,"Monday,Tuesday,Wednesday,Friday,Saturday","0830 - 1800 , 0800 - 1200"
+147,Employee_147,15,"Monday,Tuesday,Wednesday,Friday,Saturday","0830 - 1800 , 0800 - 1200"
+42,Employee_042,15,"Monday,Tuesday,Wednesday,Friday,Saturday","0830 - 1800 , 0800 - 1200"
+74,Employee_074,15,"Monday,Tuesday,Wednesday,Friday,Saturday","0830 - 1800 , 0800 - 1200"
+72,Employee_072,15,"Monday,Tuesday,Wednesday,Friday,Saturday","0830 - 1800 , 0800 - 1200"
+144,Employee_144,16,"Monday,Wednesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+30,Employee_030,16,"Monday,Wednesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+103,Employee_103,16,"Monday,Wednesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+56,Employee_056,16,"Monday,Wednesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+86,Employee_086,16,"Monday,Wednesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+46,Employee_046,16,"Monday,Wednesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+5,Employee_005,16,"Monday,Wednesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+71,Employee_071,17,"Monday,Tuesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+125,Employee_125,17,"Monday,Tuesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+65,Employee_065,17,"Monday,Tuesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+117,Employee_117,17,"Monday,Tuesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+130,Employee_130,17,"Monday,Tuesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+115,Employee_115,17,"Monday,Tuesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+90,Employee_090,17,"Monday,Tuesday,Thursday,Friday,Saturday","0900 - 1830 , 0800 - 1200"
+118,Employee_118,18,"Monday,Tuesday,Wednesday,Thursday,Saturday","0930 - 1900 , 0800 - 1200"
+126,Employee_126,18,"Monday,Tuesday,Wednesday,Thursday,Saturday","0930 - 1900 , 0800 - 1200"
+57,Employee_057,18,"Monday,Tuesday,Wednesday,Thursday,Saturday","0930 - 1900 , 0800 - 1200"
+145,Employee_145,18,"Monday,Tuesday,Wednesday,Thursday,Saturday","0930 - 1900 , 0800 - 1200"
+33,Employee_033,18,"Monday,Tuesday,Wednesday,Thursday,Saturday","0930 - 1900 , 0800 - 1200"
+25,Employee_025,18,"Monday,Tuesday,Wednesday,Thursday,Saturday","0930 - 1900 , 0800 - 1200"
+27,Employee_027,18,"Monday,Tuesday,Wednesday,Thursday,Saturday","0930 - 1900 , 0800 - 1200"
+137,Employee_137,19,"Monday,Wednesday,Thursday,Friday,Saturday","1000 - 1930 , 1130 - 1530"
+85,Employee_085,19,"Monday,Wednesday,Thursday,Friday,Saturday","1000 - 1930 , 1130 - 1530"
+7,Employee_007,19,"Monday,Wednesday,Thursday,Friday,Saturday","1000 - 1930 , 1130 - 1530"
+128,Employee_128,19,"Monday,Wednesday,Thursday,Friday,Saturday","1000 - 1930 , 1130 - 1530"
+140,Employee_140,19,"Monday,Wednesday,Thursday,Friday,Saturday","1000 - 1930 , 1130 - 1530"
+28,Employee_028,19,"Monday,Wednesday,Thursday,Friday,Saturday","1000 - 1930 , 1130 - 1530"
+91,Employee_091,19,"Monday,Wednesday,Thursday,Friday,Saturday","1000 - 1930 , 1130 - 1530"
+78,Employee_078,20,"Monday,Tuesday,Thursday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+60,Employee_060,20,"Monday,Tuesday,Thursday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+105,Employee_105,20,"Monday,Tuesday,Thursday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+109,Employee_109,20,"Monday,Tuesday,Thursday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+107,Employee_107,20,"Monday,Tuesday,Thursday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+127,Employee_127,20,"Monday,Tuesday,Thursday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+135,Employee_135,20,"Monday,Tuesday,Thursday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+77,Employee_077,21,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+138,Employee_138,21,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+89,Employee_089,21,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+12,Employee_012,21,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+21,Employee_021,21,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+37,Employee_037,21,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+80,Employee_080,21,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1145 - 1645"
+70,Employee_070,22,"Monday,Tuesday,Wednesday,Thursday,Saturday","1000 - 1930 , 1200 - 1600"
+67,Employee_067,22,"Monday,Tuesday,Wednesday,Thursday,Saturday","1000 - 1930 , 1200 - 1600"
+150,Employee_150,22,"Monday,Tuesday,Wednesday,Thursday,Saturday","1000 - 1930 , 1200 - 1600"
+66,Employee_066,22,"Monday,Tuesday,Wednesday,Thursday,Saturday","1000 - 1930 , 1200 - 1600"
+136,Employee_136,22,"Monday,Tuesday,Wednesday,Thursday,Saturday","1000 - 1930 , 1200 - 1600"
+10,Employee_010,22,"Monday,Tuesday,Wednesday,Thursday,Saturday","1000 - 1930 , 1200 - 1600"
+123,Employee_123,22,"Monday,Tuesday,Wednesday,Thursday,Saturday","1000 - 1930 , 1200 - 1600"
+101,Employee_101,23,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1200 - 1600"
+82,Employee_082,23,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1200 - 1600"
+54,Employee_054,23,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1200 - 1600"
+2,Employee_002,23,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1200 - 1600"
+94,Employee_094,23,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1200 - 1600"
+26,Employee_026,23,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1200 - 1600"
+36,Employee_036,23,"Monday,Tuesday,Wednesday,Friday,Saturday","1000 - 1930 , 1200 - 1600"
