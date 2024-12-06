@@ -50,7 +50,7 @@ to a new CSV file if the output looks acceptable.
 ## How To Run
 1. Clone The Repository
 ```
-git clone https://github.com/your-username/shift-bid-system.git
+git clone https://github.com/Chris-J-Schmitz/Shift-Bid-System.git
 cd shift-bid-system
 ```
 2. Place your employee data in a CSV file (e.g., employee_data.csv).
