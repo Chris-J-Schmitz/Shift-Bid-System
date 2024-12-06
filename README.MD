@@ -57,7 +57,7 @@ cd shift-bid-system
 3. Delete ("shift_assignments.csv") file. Or delete all contents within. 
 3. Run The Program
 ``` 
-python shift_bid_system.py
+python main.py
 ```
 
 Sample Input
