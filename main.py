@@ -78,7 +78,7 @@ def assign_shifts(employees):
 def displayShifts(shift_assignments):
     print("shift assignments")
     for shift in sorted(shift_assignments.keys()):
-        print(f"\n shift {shift}")
+        print(f"\nshift {shift}")
         for emp in shift_assignments[shift]:
             print(f" - {emp ['emp_name']} (ID: {emp['emp_id']})")
 
@@ -101,7 +101,11 @@ def main():
     shift_assignments = assign_shifts(employees)
 
     #Display shifts for review
-    displayShifts(shift_assignments)
+    #displayShifts(shift_assignments)
+    print("\n Shift 1")
+    for emp in shift_assignments[1]:
+        print(f"{emp['emp_name']} Shift: {SHIFT_SCHEDULE[1]}")
+
 
     
 
