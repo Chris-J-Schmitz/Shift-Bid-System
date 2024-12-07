@@ -81,7 +81,7 @@ def assign_shifts(employees):
 def displayShifts(shift_assignments):
     print("shift assignments")
     for shift in sorted(shift_assignments.keys()):
-        print(f"\nshift {shift}")
+        print(f"\nshift {shift} - Days: {SHIFT_SCHEDULE[shift]['days']} , Time: {SHIFT_SCHEDULE[shift]['times']}")
         for emp in shift_assignments[shift]:
             print(f" - {emp ['emp_name']} (ID: {emp['emp_id']})")
 
